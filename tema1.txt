@@ -67,3 +67,17 @@ Additionally screenshots/recording of the process.
 4
 -"My e-mail address is" becomes "Email or Username:"
 -"Do you have password?" and the select section become "Password"
+
+5
+	I discuss with the customer about planning the requirements, terms of agreement and outlines. After accepting the project, we will meet up the team for a few hours 
+and define each requirement of the application and give details (such user registration, login page, home page etc). Once the team analyzed the requirements, the product owner 
+will take all the defined requirements and create tickets in a project management system,the designer will take all the requirements and start to plan the product (which includes 
+business rules, user interface layouts, frameworks, system server design, database relationships, language programming, architecture of the application, logo aspects, supported 
+browsers etc) ,the operation team will set up the hardware for server, the developer will start writing the code, the tester will analyze the requirements and start building test 
+cases. 
+	When everything is set up, the tester will use test cases to make sure the application is working as expected,  find as many bugs as he can, critical issue( not being able
+to log in/out, users can't even register, buttons functionality etc), all the bug are reported to the developer to fix these and the cycle is repeating.
+Once finished, the operator will get the app ready for production (he will install new hardwares or brand new servers, data base). After all of these, the app will go live to real users.
+This leads us to the final stage, maintenance, where the app gets millions of users, so we need to maintain the servers and the environment, making sure that the huge amount of users doesn't bring down the system, which includes to make larger servers, data base, getting faster computers.
+New features and requirements come while we're in the maintenance phase, therefore the process will be replayed.
+
