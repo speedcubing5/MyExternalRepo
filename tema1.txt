@@ -1,2 +1,24 @@
 Barticel Cristophor-David
-Homework week 1
+QA Homework week 1
+
+
+1.
+ priority is high & severity is low
+	-the logo is not shown on the site
+-titles and headlines written improper
+-the text colour is the same as the background
+
+ priority is low & severity is high
+	-the user uses old browsers and the message may be displayed with special character
+	-crash after accessing an external link
+	-not updating the soft
+
+ both are high
+	-page throws errors when clicking buttons
+	-after making the payment, the order stays in the cart instead confirmed
+	-when signing in for the first time and throw an error such “this email has been already                    used ”
+
+ both are low
+	-the page loads slowly
+	- wrong words in phrases
+	-text font not proper
