@@ -48,4 +48,18 @@ Pass/Fail: Fail
 -check the shortcut links send to right sites
 -check features are working
 
-
+3
+Reporter: Name or email
+Date: Date
+Bug id: Id
+URL: https://ecomm.com
+Summary: Removing item from cart doesn’t work
+Platform: Mac os 10.14
+Physical memory: 3000/4096
+Free memory space: 50 GB
+Browser: Chrome 10.0.2
+Priority: P1
+Severity: Critical
+Description: Select item x .Click on Add to cart. Click remove to remove the product from the cart. Message shown item removed. The item is still in the cart.
+Number of repeating the test: 4
+Additionally screenshots/recording of the process.
