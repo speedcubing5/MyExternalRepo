@@ -65,5 +65,5 @@ Number of repeating the test: 4
 Additionally screenshots/recording of the process.
 
 4
--"My e-mail address is" becomes “Email or Username:"
+-"My e-mail address is" becomes "Email or Username:"
 -"Do you have password?" and the select section become "Password"
