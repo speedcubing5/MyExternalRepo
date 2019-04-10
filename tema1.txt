@@ -41,3 +41,11 @@ Expected result: Login successfully
 Actual result: Login failed
 Pass/Fail: Fail
 
+2.1
+-when checking the login functionality: check the system behaviour when entering valid/invalid email/username and password, the fields are empty and signing in, “forgot password?” is working as expected.
+-if search bar is working properly, if does not show an existent word
+-check that an order can be created
+-check the shortcut links send to right sites
+-check features are working
+
+
