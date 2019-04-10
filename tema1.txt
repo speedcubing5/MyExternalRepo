@@ -63,3 +63,7 @@ Severity: Critical
 Description: Select item x .Click on Add to cart. Click remove to remove the product from the cart. Message shown item removed. The item is still in the cart.
 Number of repeating the test: 4
 Additionally screenshots/recording of the process.
+
+4
+-"My e-mail address is" becomes “Email or Username:"
+-"Do you have password?" and the select section become "Password"
