@@ -16,7 +16,7 @@ QA Homework week 1
  both are high
 	-page throws errors when clicking buttons
 	-after making the payment, the order stays in the cart instead confirmed
-	-when signing in for the first time and throw an error such “this email has been already                    used ”
+	-when signing in for the first time and throw an error such “this email has been already used
 
  both are low
 	-the page loads slowly
