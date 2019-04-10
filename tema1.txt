@@ -5,8 +5,8 @@ QA Homework week 1
 1.
  priority is high & severity is low
 	-the logo is not shown on the site
--titles and headlines written improper
--the text colour is the same as the background
+	-titles and headlines written improper
+	-the text colour is the same as the background
 
  priority is low & severity is high
 	-the user uses old browsers and the message may be displayed with special character
@@ -22,3 +22,22 @@ QA Homework week 1
 	-the page loads slowly
 	- wrong words in phrases
 	-text font not proper
+
+2.
+Consider an ecommerce app.
+There are some tests scenarios:
+-check login functionality with valid email/username and password
+-check login functionality with invalid email/username and password
+-check login functionality with empty fields at email/username and password
+
+Test Case No.: 1
+Test Case: Check the login functionality
+Descripsion: Check the user is allowed to login using valid data
+Step:
+	1)Launch the app with given link
+	2)Navigate to login page
+	3)enter valid email/username and password in their fields
+	4)click login button
+Expected result: Login successfully
+Actual result: Login failed
+Pass/Fail: Fail
